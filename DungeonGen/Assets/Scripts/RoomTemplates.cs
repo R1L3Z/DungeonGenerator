@@ -13,7 +13,7 @@ public class RoomTemplates : MonoBehaviour
     public GameObject bottomRight;
     public GameObject topLeft;
     public GameObject topRight;
-    public GameObject closedRoom;
+    //public GameObject closedRoom;
 
     public List<GameObject> rooms;
 
